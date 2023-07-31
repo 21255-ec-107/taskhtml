@@ -1,0 +1,21 @@
+#abc{
+	
+}
+
+
+input[type]{
+	color:red;
+
+}
+input[type="name"]{
+	color:blue;
+}
+input[type="number"]{
+	color:green;
+}
+input[type="email"]{
+	color":yellow
+}
+a[href]{
+	background-color: lightpink;
+}
